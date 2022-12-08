@@ -1,1 +1,4 @@
 # What-are-the-main-underlying-determinants-of-the-booking-demand-for-the-hotel-industry
+The hotel industry has always been a very complex sector which requires a continuous improvement of the management methods used. Since the pandemic crisis, many changes have impacted this sector, not to mention the exacerbated evolution of customer expectations which are becoming more and more demanding. Therefore, hotels need to adapt their operations to this challenging context. 
+
+Demand forecasting is a new method to mitigate the impact of these constraints. Due to its benefits (efficient planning, better decision making, pricing…) it is essential for hotels to apply it.The main objective of this project is the development of a predictive model that allows hotels to anticipate their market demand to be able to adapt their activity, optimize their costs and maximize their profits in a given period of time.
